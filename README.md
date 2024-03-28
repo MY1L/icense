@@ -48,12 +48,12 @@
 ## 支持声明 | Support & Disclaimer
 由于是免费发布的，我对字体不作任何保证，不承担任何责任，无法提供商业级技术支持，但我有兴趣听取在我能力范围内的意见并尝试解决问题，可[在此向我反馈][isss]。（As this font is distributed at no cost, I am unable to provide a commercial level of personal technical support. I am interested in hearing from you, however, and will try to resolve problems that are reported to me. You can [send feedback to me here][isss].）
 
-<p align="center"><a href="https://afdian.net/@FairyFloss" target="_blank"><img src="Seal.svg" alt="签章"></a></p>
-<!-- [![Seal](Seal.svg)](https://afdian.net/@FairyFloss)
+<p align="center"><a href="https://azz.ee/MY1L" target="_blank"><img src="Seal.svg" alt="签章"></a></p>
+<!-- [![Seal](Seal.svg)](http://afdian.net/@FairyFloss)
 [MY1L](./LICENSE) -->
 
 [isss]: ../../issues
-[donation]: https://afdian.net/@FairyFloss
+[donation]: https://azz.ee/MY1L
 
 下方问答集仅为解释本协议内容，不包含于本协议。
 
